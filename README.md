@@ -1,111 +1,141 @@
-# Yannick Olinga
+# ⚡ YANNICK OLINGA
 
 <div align="center">
 
-### Full Stack Developer · Builder · Problem Solver
+### Full Stack Developer · Mobile · Backend · IoT
 
-**Je transforme des idées en applications concrètes, utiles et déployables.**
+**Je conçois et construis des produits numériques de l'idée au déploiement.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visiter-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/YannickOlinga/portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yannick%20Olinga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-YannickOlinga-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YannickOlinga)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YannickOlinga)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF3B5C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/YannickOlinga)
+
+![Profile Views](https://komarev.com/ghpvc/?username=YannickOlinga&style=flat-square&color=ff3b5c)
 
 </div>
 
 ---
 
-## 👋 Qui suis-je ?
+## `01` — ABOUT ME
 
-Je suis **Yannick Olinga**, développeur **Full Stack** actuellement en **Master 1 Développement Full Stack**.
+```text
+Yannick Olinga
+├── 🎓 Master 1 — Développement Full Stack
+├── 💻 Full Stack Developer
+├── 📱 Web & Mobile
+├── ⚙️ Backend & API
+├── 🔌 IoT & Connected Products
+└── 🚀 From prototype → production
+```
 
-J'aime construire des produits de bout en bout : concevoir l'interface, développer les API, structurer les bases de données, connecter les services et mettre les applications en production.
+Je développe des applications qui combinent **interface utilisateur, backend, données et infrastructure**. J'aime particulièrement les projets où le logiciel rencontre un besoin concret.
 
-> **Mon approche : comprendre le problème → construire une solution → tester → déployer → améliorer.**
-
----
-
-## 🚀 Ce que je construis
-
-| Projet | Description | Stack |
-|---|---|---|
-| **Périnéa** | Application mobile FemTech connectée à une sonde pour accompagner la rééducation du plancher pelvien. | React Native · Django · DRF · PostgreSQL · Supabase · ESP32 |
-| **File Organizer** | Outil de classement automatique des fichiers d'un dossier par type. | React · FastAPI · Python |
-| **Discipulus** | Application iOS d'apprentissage avec formations, leçons et quiz. | SwiftUI · Swift · Supabase |
-| **Portfolio** | Mon espace personnel pour présenter mon parcours, mes projets et mon travail. | Web · HTML · CSS · JavaScript |
-
-### ⭐ Projet actuellement mis en avant
-
-**Périnéa** est mon projet le plus ambitieux : il combine **mobile, backend, base de données, IoT et déploiement** dans un même produit.
+**Mon workflow :** `Idea → Architecture → Development → Testing → Deployment → Iteration`
 
 ---
 
-## 🧩 Stack
+## `02` — FEATURED PROJECT
+
+<div align="center">
+
+### 🩷 PÉRINÉA
+
+**Connected FemTech platform for pelvic floor rehabilitation**
+
+</div>
+
+> Une application mobile connectée à une sonde permettant d'accompagner les exercices de rééducation du plancher pelvien.
+
+| Layer | Technologies |
+| :--- | :--- |
+| 📱 Mobile | React Native · Expo |
+| ⚙️ Backend | Django · Django REST Framework |
+| 🗄️ Database | PostgreSQL · Supabase |
+| 🔌 Connected device | ESP32 · Arduino · Wi-Fi |
+| ☁️ Deployment | Scalingo |
+| 🧪 API testing | Postman |
+
+**Contribution :** Backend · Database · API · Probe · Deployment · Testing
+
+---
+
+## `03` — WHAT I'M BUILDING
+
+### 📂 File Organizer
+Application qui analyse un dossier et classe automatiquement les fichiers par catégories.
+
+`React` `FastAPI` `Python`
+
+### 🎓 Discipulus
+Application iOS d'e-learning avec formations, leçons, catégories et quiz.
+
+`Swift` `SwiftUI` `Supabase`
+
+### 🌐 Developer Portfolio
+Portfolio personnel présentant mon parcours, mes compétences et mes réalisations.
+
+`HTML` `CSS` `JavaScript` `PHP`
+
+---
+
+## `04` — TECH STACK
+
+<div align="center">
 
 ### Frontend
-`React` · `React Native` · `JavaScript` · `HTML5` · `CSS3` · `Tailwind CSS`
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
 
-### Backend
-`Python` · `Django` · `Django REST Framework` · `FastAPI` · `REST API`
+### Backend & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=000)
 
-### Data
-`PostgreSQL` · `Supabase` · `MySQL` · `SQL`
-
-### Mobile & IoT
-`Swift` · `SwiftUI` · `ESP32` · `Arduino`
-
-### DevOps & outils
-`Git` · `GitHub` · `GitLab` · `Docker` · `GitHub Actions` · `Scalingo` · `Postman`
-
----
-
-## 🛠️ Ce que j'aime faire
-
-**01 — Product development**  
-Transformer une idée en produit fonctionnel, de la conception jusqu'au déploiement.
-
-**02 — Backend & APIs**  
-Concevoir des APIs REST propres, sécurisées et connectées à des bases de données.
-
-**03 — Full Stack**  
-Relier une interface moderne à une architecture backend robuste.
-
-**04 — IoT & applications connectées**  
-Faire communiquer logiciel, matériel et services pour créer des expériences complètes.
-
----
-
-## 📌 En ce moment
-
-- 🎓 Master 1 — Développement Full Stack
-- 💻 Construction de projets Full Stack et produits numériques
-- 🚀 Développement et amélioration de **Périnéa**
-- 🧠 Approfondissement de Docker, CI/CD, architecture backend et déploiement
-- 🤝 Ouvert aux collaborations autour de projets web, mobile, IoT et SaaS
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YannickOlinga&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YannickOlinga&layout=compact&hide_border=true&theme=transparent)
+### Mobile · IoT · DevOps
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=fff)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 
 </div>
 
 ---
 
-## 💬 Une idée ? Un projet ?
+## `05` — CURRENTLY
 
-Je suis toujours intéressé par les projets qui combinent **technologie, utilité et impact concret**.
+```diff
++ Master 1 — Développement Full Stack
++ Building real-world products
++ Improving Docker & CI/CD skills
++ Exploring scalable backend architectures
++ Developing connected applications
+```
+
+---
+
+## `06` — GITHUB ACTIVITY
 
 <div align="center">
 
-**Let's build something useful.**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YannickOlinga&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YannickOlinga&layout=compact&hide_border=true&theme=transparent&langs_count=8)
 
 </div>
 
 ---
 
-<sub>© Yannick Olinga · Built with code, curiosity and a lot of debugging.</sub>
+<div align="center">
+
+### 🚀 BUILD. SHIP. IMPROVE.
+
+*Technology is interesting. Building something useful is better.*
+
+**© Yannick Olinga**
+
+</div>
